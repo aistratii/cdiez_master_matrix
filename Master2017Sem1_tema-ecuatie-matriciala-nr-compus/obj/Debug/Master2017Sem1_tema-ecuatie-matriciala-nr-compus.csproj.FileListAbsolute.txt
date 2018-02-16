@@ -1,0 +1,7 @@
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\bin\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compus.exe.config
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\bin\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compus.exe
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\bin\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compus.pdb
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\obj\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compus.csprojResolveAssemblyReference.cache
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\obj\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compus.csproj.CoreCompileInputs.cache
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\obj\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compus.exe
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\obj\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compus.pdb

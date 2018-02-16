@@ -1,0 +1,16 @@
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\bin\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests.dll
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\bin\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests.pdb
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\bin\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compus.exe
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\bin\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compus.pdb
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\bin\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compus.exe.config
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\obj\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests.csprojResolveAssemblyReference.cache
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\obj\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests.csproj.CoreCompileInputs.cache
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\obj\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests.dll
+C:\Users\aistratii\source\repos\Master2017Sem1_tema-ecuatie-matriciala-nr-compus\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests\obj\Debug\Master2017Sem1_tema-ecuatie-matriciala-nr-compusTests.pdb
